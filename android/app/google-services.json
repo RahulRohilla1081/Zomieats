@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519586295081",
+    "project_id": "zomieats-1d28f",
+    "storage_bucket": "zomieats-1d28f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519586295081:android:2ac367cebba6ad64425b38",
+        "android_client_info": {
+          "package_name": "com.fooddeliveryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519586295081-haj6mc7jsshcrk07v8mqhgqgb5c23atr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWXiGgFanettHjZQSBDeTMbBkNNXipByM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519586295081-haj6mc7jsshcrk07v8mqhgqgb5c23atr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
